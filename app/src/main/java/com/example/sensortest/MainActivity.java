@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private LocationManager locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
 
-
+    //github commit test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
